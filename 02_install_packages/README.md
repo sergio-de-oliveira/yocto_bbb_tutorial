@@ -1,4 +1,4 @@
-# YOCTO BEAGLEBONE BLACK TUTORIAL
+# YOCTO BEAGLEBONE BLACK TUTORIAL<br>INSTALL PACKAGES
 
 <!---------------------------------------------------------------->
 ### Prerequisites
