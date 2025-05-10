@@ -17,11 +17,11 @@ source oe-init-build-env
 <br>
 
 <!---------------------------------------------------------------->
-## STEP 2: Verify desired packages
-Verify desired package (ex.: pyhton3 and git):
+## STEP 2: Verify desired recipes packages
+Verify desired recipes packages (ex.: pyhton3 and git):
 ```
-bitbake-layers show-layer python3
-bitbake-layers show-layer git
+bitbake-layers show-recipes python3
+bitbake-layers show-recipes git
 ```
 <br>
 <br>
